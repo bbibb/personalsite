@@ -1,1 +1,1 @@
-# personalsite
+# This is a working folder for learning html, css, and javascript to create a personal site for my academic profile.
